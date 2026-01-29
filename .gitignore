@@ -1,0 +1,16 @@
+# common
+.DS_Store
+
+# node
+node_modules/
+
+# python
+__pycache__/
+.venv/
+
+# java
+*.class
+
+# dotnet
+bin/
+obj/
